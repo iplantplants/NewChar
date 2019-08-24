@@ -1,0 +1,11 @@
+## Interface: 70300
+## Title: NewChar
+## Version: 0.1.0
+## Notes: new character
+## Author: Graydon
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: characterAge, newCharacter
+## SavedVariables: addonState
+NewChar.lua
+
+

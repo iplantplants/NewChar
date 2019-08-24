@@ -1,0 +1,35 @@
+ # Changelog
+All notable changes to this project will be documented in this file.
+Date system: DD/MM/YYYY
+
+# Version History
+
+##  23/08/2019  0.0.1
+
+## [Unreleased]
+
+## [0.0.1] - 23/08/2019
+### Added
++ Added cleaning functions
++ Added playtime check to ensure old existing characters don't get their action bars/bags/gear wiped.
++ Got angry, played RuneScape for a bit. Got 67 fishing.
+
+## [0.1.0] - 24/08/2019
+### Changed
+* Re-did everything from yesterday.
+* Fixed issue where old characters were seen as new.
+* Removed debug command from help listing.
+* Removed debug messages.
+
+## [0.1.0] - 24/08/2019
+### Added
++ Added clean commands.
++ Added help command.
+
+
+[PUBLIC RELEASE]
+
+##
+##
+##
+
