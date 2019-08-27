@@ -106,7 +106,7 @@ newCharTimer:RegisterEvent("TIME_PLAYED_MSG")
 newCharTimer:SetScript("OnEvent", function(self, event, timePlayed)
     
     characterAge = timePlayed / 60; --stored as minutes
-    print(event, timePlayed, characterAge)
+    --print(event, timePlayed, characterAge)
     
 end)
 
